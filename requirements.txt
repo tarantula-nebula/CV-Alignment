@@ -1,0 +1,4 @@
+# A3 Computer Vision Imports
+
+cvzone>=1.5.6
+numpy>=1.18.5
