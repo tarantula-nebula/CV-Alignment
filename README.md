@@ -2,7 +2,7 @@ This project is for my design course at univeristy.
 
 The aim of the project is to align a custom hose fitting with a corresponding hose connection. 
 
-The connection has markings on it allow for alignment. 
+The connection has markings on it to allow for alignment. 
 
 Obtain-Expected-Positions: 
 From .jpeg file of ideal marking locations find the pixel location of the markings to use
